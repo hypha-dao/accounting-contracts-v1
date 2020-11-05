@@ -27,8 +27,6 @@ CONTRACT projects : public contract {
 
         ACTION reset ();
 
-        ACTION checkuserdev (name user);
-
         ACTION addtestuser (name user, string user_name, string type);
 
     private:

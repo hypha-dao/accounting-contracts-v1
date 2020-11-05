@@ -1,6 +1,5 @@
 #include <projects.hpp>
 
-
 void projects::checkusrtype (name user, string type) {
 	auto itr_user = users.find(user.value);
 	check(itr_user != users.end(), contract_names::projects.to_string() + ": the user does not exist.");
