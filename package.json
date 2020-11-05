@@ -1,5 +1,5 @@
 {
-  "name": "proxy-capital-real-estate-transparency-smart-contracts",
+  "name": "accounting-contracts",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/smontero1/proxy-capital-real-estate-transparency-smart-contracts.git"
+    "url": "git+https://github.com/hypha-dao/accounting-contracts.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/smontero1/proxy-capital-real-estate-transparency-smart-contracts/issues"
+    "url": "https://github.com/hypha-dao/accounting-contracts/issues"
   },
-  "homepage": "https://gitlab.com/smontero1/proxy-capital-real-estate-transparency-smart-contracts#readme",
+  "homepage": "https://github.com/hypha-dao/accounting-contracts",
   "dependencies": {
     "@types/node": "^13.7.6",
     "dotenv": "^8.2.0",
